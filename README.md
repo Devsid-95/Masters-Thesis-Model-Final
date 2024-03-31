@@ -1,4 +1,4 @@
-# Master's-Thesis-Model
+# Word embeddings on Songs meta data for for Genre Recommendation
 
 
 
